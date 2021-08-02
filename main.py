@@ -12,7 +12,7 @@ from tmdbv3api import TMDb
 from tmdbv3api import Movie
 
 tmdb = TMDb()
-tmdb.api_key = '983e7ca75021f7d73509b1b4135dc622'
+tmdb.api_key = 'YOUR API KEY'
 
 
 # load the nlp model and tfidf vectorizer from disk
