@@ -36,5 +36,5 @@ Open your terminal/command prompt from your project directory and run the file m
 Go to your browser and type http://127.0.0.1:5000/ in the address bar
 
 # Used Algorithm for sentiment analysis
-##Multinomial naive Bayes
+## Multinomial naive Bayes ##
 accuracy score :97.47109826589595
